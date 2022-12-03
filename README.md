@@ -26,8 +26,8 @@
     | 5     | 1월 06일         | 데이터 활용 로직         |  Lecture 5         |  Practice 5      |                  |
     | 6     | 1월 13일         | 데이터 분석 및 시각화    |  Lecture 6         |  Practice 6      |                  |
 
-    [Lecture 1]: https://drive.google.com/file/d/1e88YcinqM_moyuYd2-QSi_277eY40oO0/view?usp=share_link
-    [Practice 1]: https://drive.google.com/file/d/1nC32KkbgsLGrDxT-aEyZZ7ifoQqh_byE/view?usp=share_link
+    [Lecture 1]: lecture_note/01.pdf
+    [Practice 1]: practice/01.ipynb
 
 
 ## Evaluation

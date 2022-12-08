@@ -28,8 +28,8 @@
 
     [Lecture 1]: lecture_note/01.pdf
     [Practice 1]: practice/01.ipynb
-    [Lecture 1]: lecture_note/02.pdf
-    [Practice 1]: practice/02.ipynb
+    [Lecture 2]: lecture_note/02.pdf
+    [Practice 2]: practice/02.ipynb
 
 
 ## Evaluation

@@ -30,7 +30,7 @@
     [Practice 1]: practice/01.ipynb
     [Lecture 2]: lecture_note/02.pdf
     [Practice 2]: practice/02.ipynb
-    [Practice 2 download]: https://drive.google.com/file/d/1PBPIxNAqQHKFTnAwse-GHV52npc20AN1/view?usp=sharing
+    [Download]: https://drive.google.com/file/d/1PBPIxNAqQHKFTnAwse-GHV52npc20AN1/view?usp=sharing
 
 
 ## Evaluation

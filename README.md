@@ -19,7 +19,7 @@
     | Class | Date             | Topic                    | Lecture Note       | Practice         | Note             |
     |:-----:|:----------------:|:------------------------:|:------------------:|:----------------:|:-----------------|
     | 1     | 12월 02일        | 개요 및 Toy Project I    | [Lecture 1]        | [Practice 1]     | zoom link        |
-    | 2     | 12월 09일        | 데이터 수집              | [Lecture 2]        | [Practice 2]     | [Download]       |
+    | 2     | 12월 09일        | 데이터 수집              | [Lecture 2]        | [Practice 2]     | [Download] [src]  |
     | 3     | 12월 16일        | 데이터 가공 및 전처리    |  Lecture 3         |  Practice 3      |                  |
     | -     | 휴강             | -                        | -                  | -                |                  |
     | 4     | 12월 30일        | Toy Project II           |  Lecture 4         |  Practice 4      | 동영상 강의      |
@@ -31,6 +31,7 @@
     [Lecture 2]: lecture_note/02.pdf
     [Practice 2]: practice/02.ipynb
     [Download]: https://drive.google.com/file/d/1PBPIxNAqQHKFTnAwse-GHV52npc20AN1/view?usp=sharing
+    [src]: https://drive.google.com/drive/u/0/folders/14HN_F7xr3p1TwuW6bgKLN2XiiJc9jbN5
 
 
 ## Evaluation

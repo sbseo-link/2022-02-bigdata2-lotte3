@@ -15,11 +15,11 @@
 
 * **Class Times:** 금요일 14:00 ~ 17:00 (연세대학교 새천년관 214호)
 
-* **Timeline**
+* **Timeline** ([shared files])
     | Class | Date             | Topic                    | Lecture Note       | Practice         | Note             |
     |:-----:|:----------------:|:------------------------:|:------------------:|:----------------:|:-----------------|
-    | 1     | 12월 02일        | 개요 및 Toy Project I    | [Lecture 1]        | [Practice 1]     | zoom link        |
-    | 2     | 12월 09일        | 데이터 수집              | [Lecture 2]        | [Practice 2]     | [Download] [src]  |
+    | 1     | 12월 02일        | 개요 및 Toy Project I    | [Lecture 1]        | [Practice 1]     |                  |
+    | 2     | 12월 09일        | 데이터 수집              | [Lecture 2]        | [Practice 2]     |                  |
     | 3     | 12월 16일        | 데이터 가공 및 전처리    |  Lecture 3         |  Practice 3      |                  |
     | -     | 휴강             | -                        | -                  | -                |                  |
     | 4     | 12월 30일        | Toy Project II           |  Lecture 4         |  Practice 4      | 동영상 강의      |
@@ -30,8 +30,7 @@
     [Practice 1]: practice/01.ipynb
     [Lecture 2]: lecture_note/02.pdf
     [Practice 2]: practice/02.ipynb
-    [Download]: https://drive.google.com/file/d/1PBPIxNAqQHKFTnAwse-GHV52npc20AN1/view?usp=sharing
-    [src]: https://drive.google.com/drive/u/0/folders/14HN_F7xr3p1TwuW6bgKLN2XiiJc9jbN5
+    [shared files]: https://drive.google.com/drive/folders/1uyeFlvsdDU1zqytHQqzQtuKTqspeLtfW?usp=share_link
 
 
 ## Evaluation

@@ -53,4 +53,4 @@
     * [점프 투 파이썬](https://wikidocs.net/book/1) 
     * [Python basic](https://wikidocs.net/book/1553) 
     * [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
-  * 실습환경: [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)     
+  * 실습환경: jupyter notebook

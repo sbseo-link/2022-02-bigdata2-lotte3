@@ -15,7 +15,7 @@
 
 * **Class Times:** 금요일 14:00 ~ 17:00 (연세대학교 새천년관 214호)
 
-* **[shared field]
+* **[shared files]**
 
 * **Timeline**
     | Class | Date             | Topic                    | Lecture Note       | Practice             | Note           |

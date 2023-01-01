@@ -24,7 +24,7 @@
     | 2     | 12월 09일        | 데이터 수집              | [Lecture 2]        | [Practice 2]         |                |
     | 3     | 12월 16일        | 데이터 가공 및 전처리    | [Lecture 3]        | [Practice 3]         |                |
     | -     | 휴강             | -                        | -                  | -                    |                |
-    | 4     | 12월 30일        | Toy Project II           | [Lecture 4]        | [Practice 4]         | [Lecture]      |
+    | 4     | 12월 30일        | Toy Project II           | [Lecture 4]        | [Practice 4]         | [Lecture] ([youtube])     |
     | 5     | 1월 06일         | 데이터 활용 로직         |  Lecture 5         |  Practice 5          |                |
     | 6     | 1월 13일         | 데이터 분석 및 시각화    |  Lecture 6         |  Practice 6          |                |
 
@@ -38,6 +38,7 @@
     [Lecture 4]: lecture_note/04.pdf
     [Practice 4]: practice/04.ipynb
     [Lecture]: https://drive.google.com/drive/u/0/folders/1LJSDUknesdg5i4D0gxucLNT8pwlXhkMz
+    [youtube]: https://www.youtube.com/watch?v=5z9cTc-M4vU
 
 
 ## Evaluation

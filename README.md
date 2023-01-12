@@ -15,7 +15,7 @@
 
 * **Class Times:** 금요일 14:00 ~ 17:00 (연세대학교 새천년관 214호)
 
-* **[shared files]**
+* **[shared files]** | **[lecture_notes]** | **[practices]**
 
 * **Timeline**
     | Class | Date             | Topic                    | Lecture Note       | Practice             | Note                            |
@@ -26,13 +26,15 @@
     | -     | 휴강             | -                        | -                  | -                    |                                 |
     | 4     | 12월 30일        | Toy Project II           | [Lecture 4]        | [Practice 4]         | [Lecture] ([youtube]) [assignment]    |
     | 5     | 1월 06일         | 데이터 활용 로직         | [Lecture 5]        | [Practice 5]         |                                 |
-    | 6     | 1월 13일         | 데이터 분석 및 시각화    |  Lecture 6         |  Practice 6          |                                 |
+    | 6     | 1월 13일         | 데이터 분석 및 시각화    | [Lecture 6]        | [Practice 6]         |                                 |
 
     [Lecture 1]: lecture_note/01.pdf
     [Practice 1]: practice/01.ipynb
     [Lecture 2]: lecture_note/02.pdf
     [Practice 2]: practice/02.ipynb
     [shared files]: https://drive.google.com/drive/folders/1uyeFlvsdDU1zqytHQqzQtuKTqspeLtfW?usp=share_link
+    [lecture_notes]: https://drive.google.com/drive/u/1/folders/1r9kh995OUmC25QyUCIYHeT60iEWLOVOu
+    [practices]: https://drive.google.com/drive/u/1/folders/1fWiFamKHXPI9eDjCnuE0bomj-NIAq786
     [Lecture 3]: lecture_note/03.pdf
     [Practice 3]: practice/03.ipynb
     [Lecture 4]: lecture_note/04.pdf
@@ -42,6 +44,8 @@
     [Lecture 5]: https://drive.google.com/file/d/1tTXvdP-lOZ9MsOt_0KabgrM6YPKshxsm/view?usp=share_link
     [Practice 5]: https://drive.google.com/file/d/1c6SokS-ovs2v-3uFL-moos68025mKiqw/view?usp=share_link
     [assignment]: https://drive.google.com/file/d/1fQMklHd6PIbg4Sbc5BOFC7r93iCmorBZ/view?usp=share_link
+    [Lecture 6]: https://drive.google.com/file/d/1u_loD7V9UW1eRzGsyUsKeGodi5XTpLgX/view?usp=share_link
+    [Practice 6]: https://drive.google.com/file/d/1Hb9VAuRjxx49GTH87indD6L8EKFUaDtv/view?usp=share_link
 
 
 ## Evaluation
